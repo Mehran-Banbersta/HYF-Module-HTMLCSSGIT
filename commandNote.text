@@ -6,3 +6,9 @@ How do I create multiple nested directories, like /c/Users/myusername/these/fold
 mkdir -p c/Users/myusername/these/folders/are/just/for/fun
 
 with echo we can write a new text in terminal => echo 'my first message' >> filename
+
+1. touch commandNote.text
+2. echo line-01 > commandNote.text
+3. echo newText >> commandNote.text
+4. cat commandNote.text
+5. nano commandNote.text
